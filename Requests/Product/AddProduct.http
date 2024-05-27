@@ -1,0 +1,7 @@
+POST http://localhost:5167/product
+content-type: application/json
+
+{
+    "Id": 1,
+    "Name": "Cell phone"
+}

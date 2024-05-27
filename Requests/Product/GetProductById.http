@@ -1,0 +1,2 @@
+GET http://localhost:5167/product/3
+content-type: application/json
